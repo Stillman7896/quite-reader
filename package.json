@@ -19,6 +19,7 @@
   },
   "devDependencies": {
     "@sveltejs/adapter-cloudflare": "^7.2.9",
+    "@tailwindcss/postcss": "^4.3.3",
     "@sveltejs/kit": "^2.70.3",
     "@sveltejs/vite-plugin-svelte": "^7.3.0",
     "autoprefixer": "^10.6.1",
